@@ -20,8 +20,8 @@
 - [Funciones Implementadas](#funciones-implementadas)
 - [Acceso al Proyecto](#acceso-al-proyecto)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Contribuciones](#contribuciones)
-- [Contacto](#contacto)
+- [Contribuciones](#Contribuciones)
+- [Contacto](#Contacto)
 
 ---
 

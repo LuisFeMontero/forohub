@@ -63,7 +63,7 @@ El proyecto aún **necesita mejoras**. Actualmente, las funcionalidades básicas
 Clona el repositorio desde GitHub y sigue las instrucciones para configurarlo en tu entorno local.
 
 ```bash
-    git clone https://github.com/LuisFeMontero/forohub
+    git clone https://github.com/LuisFeMontero/forohub.git
     cd forohub
 ```
 ## Ejecución del Proyecto:

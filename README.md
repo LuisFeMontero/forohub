@@ -1,4 +1,4 @@
-![Portada del Proyecto](src\Imágenes\Foro_hub.jpg)
+![Portada del Proyecto](src/Imágenes/Foro_hub.jpg)
 
 # Foro Hub - API REST para la Gestión de Tópicos
 
@@ -9,7 +9,7 @@
 [![Flyway Badge](https://img.shields.io/badge/Flyway-9.16.0-red.svg)](https://flywaydb.org/)  
 [![Spring Data JPA Badge](https://img.shields.io/badge/Spring%20Data%20JPA-3.2.4-blue.svg)](https://spring.io/projects/spring-data-jpa)  
 [![Lombok Badge](https://img.shields.io/badge/Lombok-1.18.26-yellow.svg)](https://projectlombok.org/)  
-[![License Badge](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License Badge](https://img.shields.io/badge/license-MIT-green)](src/License/LICENSE)
 
 ---
 
@@ -20,8 +20,8 @@
 - [Funciones Implementadas](#funciones-implementadas)
 - [Acceso al Proyecto](#acceso-al-proyecto)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Contribuciones](#contribuciones)
-- [Contacto](#contacto)
+- [Contribuciones](#Contribuciones)
+- [Contacto](#Contacto)
 
 ---
 
@@ -75,7 +75,7 @@ Ejecuta el proyecto con:
 ```
 ---
 
-## 💻 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Java 17**: Lenguaje principal del proyecto.
 - **Spring Boot**: Framework para la creación de aplicaciones basadas en Spring.
@@ -86,7 +86,7 @@ Ejecuta el proyecto con:
 
 ---
 
-## 🤝 Contribuciones
+## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas colaborar, sigue estos pasos:
 
@@ -106,7 +106,7 @@ Ejecuta el proyecto con:
 5. Crea un Pull Request en GitHub y describe tus modificaciones.
 
 6. Este proyecto ha sido desarrollado en el marco de aprendizaje de práctica de Alura Latam y con un esfuerzo personal de aprendizaje y exploración de tecnologías modernas en el desarrollo backend.
-## 📬 Contacto
+## Contacto
 
 Proyecto desarrollado por **Luis Felipe Montero**. Para dudas, sugerencias o colaboraciones, puedes contactarme a través de los siguientes medios:
 
